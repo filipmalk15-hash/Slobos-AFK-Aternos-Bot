@@ -6,9 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Majkissmp.aternos.me
-",
-    "port": 27586,
+    "ip": "Majkissmp.aternos.me",
+    "port": 53078,
     "version": "",
     "try-creative": false
   },
